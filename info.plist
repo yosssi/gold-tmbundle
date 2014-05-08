@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>lbfuvqn.xrvwv.84@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Keiji Yoshida</string>
+	<key>description</key>
+	<string>Template engine for Go, &lt;a href="https://github.com/yosssi/gold" title="Gold - Template engine for Go"&gt;more info&lt;/a&gt;.</string>
+	<key>name</key>
+	<string>Gold</string>
+	<key>uuid</key>
+	<string>5231C9F5-FD8E-4C1F-8345-196EA798795F</string>
+</dict>
+</plist>
