@@ -1,4 +1,4 @@
-# Slim TextMate/Sublime Text Bundle
+# Gold TextMate/Sublime Text Bundle
 
 This is a Textmate/Sublime Text bundle for [Gold](https://github.com/yosssi/gold)
 
